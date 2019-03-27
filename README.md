@@ -6,9 +6,9 @@ The purpose of this tool is to compare the price distribution of any asset to th
 This project is still in progress.
 
 ## LIBRARIES
-pandas
-statistics
-matplotlib
+- pandas
+- statistics
+- matplotlib
 
 ## AUTHOR
 Guillaume Astor
